@@ -41,6 +41,7 @@
     HTML/CSS/SCSS/Tailwind
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" height="14" width="15" /> /
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" height="14" width="16" /> /
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" height="20" width="20" /> /
     <img src="https://static-00.iconduck.com/assets.00/file-type-tailwind-icon-512x307-l0anq79h.png" height="12" width="19" />
   </p>
 

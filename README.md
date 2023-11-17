@@ -56,6 +56,12 @@
     <img src="https://www.svgrepo.com/show/354521/vitejs.svg" height="14" width="16" /> /
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/webpack-2.png" height="18" width="18" />
   </p>
+
+  <p>
+    mySQL/nodejs 
+     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="14" width="16" /> /
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="16" width="14" />
+  </p>
 </div>
 
 ***

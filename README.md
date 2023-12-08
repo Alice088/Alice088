@@ -60,7 +60,12 @@
   <p>
     mySQL/nodejs 
      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="14" width="16" /> /
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="16" width="14" />
+     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="16" width="14" />
+  </p>
+
+  <p>
+    docker
+    <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/vertical-logo-monochromatic-2822952.png" height="16" width="19" />
   </p>
 </div>
 

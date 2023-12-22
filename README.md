@@ -7,8 +7,8 @@
 <h1 align="center"> General Info </h1>
   
 <p align="center">
-  I'm a Vue developer from Earth. <br>
-  I'm love programming and make handsome front-end so much.
+  I'm a Full-stack developer from Earth. <br>
+  I'm love programming and kittens.
 </p>
 
 ***
@@ -24,11 +24,12 @@
   </p>
 
   <p>
-    Pinia/Vuex/Vue-Router/VuePrime
+    Pinia/Vuex/Vue-Router/VuePrime/vitest
     <img src="https://pinia.vuejs.org/logo.svg" height="14" width="15" /> /
     <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="14" width="16" /> /
     <img src="https://user-images.githubusercontent.com/7110136/29002858-a09570d2-7ab4-11e7-8faa-5dd6d4458b0d.png" height="18 width="16" /> /
-    <img src="https://www.primefaces.org/wp-content/uploads/2019/05/primevue-logo-200.png" height="14" width="16" />
+    <img src="https://www.primefaces.org/wp-content/uploads/2019/05/primevue-logo-200.png" height="14" width="16" /> /
+    <img src="https://images.opencollective.com/vitest/2b17c7a/logo/256.png" height="14" width="14" />
   </p>
 
   <p>
@@ -58,14 +59,26 @@
   </p>
 
   <p>
-    mySQL/nodejs 
+    mySQL/postgreSQL/nodejs/express
      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="14" width="16" /> /
-     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="16" width="14" />
+     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="14" width="16" /> /
+     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="16" width="14" /> /
+     <img src="https://www.mementotech.in/assets/images/icons/express.png" height="16" width="16" />
+  </p>
+
+  <p>
+    PrismaORM 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" height="16" width="16" />
+  </p>
+
+  <p>
+    axios
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png" height="10" width="60" />
   </p>
 
   <p>
     docker
-    <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/vertical-logo-monochromatic-2822952.png" height="16" width="19" />
+    <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/vertical-logo-monochromatic-2822952.png" height="19" width="23" />
   </p>
 </div>
 

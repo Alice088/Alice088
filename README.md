@@ -33,9 +33,10 @@
   </p>
 
   <p>
-    JavaScript/TypeScript
+    JavaScript/TypeScript/PHP
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" height="14" width="15" /> /
-    <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="14" width="15" />
+    <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="14" width="15" /> /
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" height="14" width="23" />
   </p>
 
   <p>
@@ -59,11 +60,16 @@
   </p>
 
   <p>
-    mySQL/postgreSQL/nodejs/express
-     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="14" width="16" /> /
-     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="14" width="16" /> /
+    nodejs/express/laravel
      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="16" width="14" /> /
-     <img src="https://www.mementotech.in/assets/images/icons/express.png" height="16" width="16" />
+     <img src="https://www.mementotech.in/assets/images/icons/express.png" height="16" width="16" /> /
+    <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" height="16" width="16" />
+  </p>
+
+  <p>
+    mySQL/postgreSQL
+     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="14" width="16" /> /
+     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="14" width="16" />
   </p>
 
   <p>
@@ -102,8 +108,7 @@
 ***
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alice088&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
-  <br> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alice088&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice088&layout=pie&theme=radical" />
 </div>
 

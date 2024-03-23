@@ -2,17 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Alice088%20&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
-***
-
 <h1 align="center"> General Info </h1>
   
 <p align="center">
   I'm a Full-stack developer from Earth. <br>
   I'm love programming and kittens.
 </p>
-
-***
-***
 
 <h2 align="center"> Technologies that i love and i've worked with </h2>
 
@@ -78,9 +73,6 @@
   </h3>
 </div>
 
-***
-***
-
 <h2 align="center"> Social </h3>
 
 <div align="center">
@@ -99,6 +91,34 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alice088&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+</div>
+
+***
+
+<div align="center">
+  <q>
+    Ветер, ветер! Ты могуч, <br>
+    Ты гоняешь стаи туч, <br>
+    Ты волнуешь сине море, <br>
+    Всюду веешь на просторе. <br>
+    Не боишься никого, <br>
+    Кроме бога одного. <br>
+    Аль откажешь мне в ответе? <br>
+    Не видал ли где на свете <br>
+    Ты царевны молодой? <br>
+    Я жених ее». <br> <br>
+    — «Постой, <br> 
+    — Отвечает ветер буйный, — <br> 
+    Там за речкой тихоструйной <br>
+    Есть высокая гора, <br>
+    В ней глубокая нора; <br>
+    В той норе, во тьме печальной, <br>
+    Гроб качается хрустальный <br>
+    На цепях между столбов. <br>
+    Не видать ничьих следов <br>
+    Вкруг того пустого места, <br>
+    В том гробу твоя невеста.
+  </q>
 </div>
 
 ***

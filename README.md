@@ -14,11 +14,11 @@
 <div>
   <h3>
     [Language] {<br>
-      &nbsp&nbsp&nbsp&nbsp —  JavaScript: <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" height="14" width="15" />, <br>
       &nbsp&nbsp&nbsp&nbsp —  PHP:        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" height="14" width="23" />, <br>
+      &nbsp&nbsp&nbsp&nbsp —  Kotlin:     <img src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" height="16" width="16" /> <br>
       &nbsp&nbsp&nbsp&nbsp —  TypeScript: <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="14" width="15" />, <br>
+      &nbsp&nbsp&nbsp&nbsp —  JavaScript: <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" height="14" width="15" />, <br>
       &nbsp&nbsp&nbsp&nbsp —  SQL:        <img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" height="18" width="16" />
-    <br>};
   </h3>
 
   <h3>

@@ -5,7 +5,7 @@
 <h1 align="center"> General Info </h1>
   
 <p align="center">
-  I'm a Full-stack developer from Earth. <br>
+  I'm a Back-end developer from Earth. <br>
   I'm love programming and kittens.
 </p>
 

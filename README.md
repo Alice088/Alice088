@@ -76,7 +76,7 @@
 <h2 align="center"> Social </h3>
 
 <div align="center">
-  <a href="https://t.me/Giorgio_Mihawk">
+  <a href="https://t.me/Gosha_Super_Star">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" height="18" width="18" />
   </a>
 

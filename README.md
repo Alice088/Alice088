@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Alice088%20&animation=fadeIn&type=waving&color=gradient&height=200"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Alice088%20&animation=fadeIn&theme=tokyonight&type=waving&color=gradient&height=200"/>
 </p>
 
 <h1 align="center"> General Info </h1>
@@ -21,7 +21,8 @@
       &nbsp&nbsp&nbsp&nbsp —  SQL:        <img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" height="18" width="16" /> <br>
       &nbsp&nbsp&nbsp&nbsp —  С++:        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="18" width="16" /> <br>
       &nbsp&nbsp&nbsp&nbsp —  GO:        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="26" width="29" /> <br>
-      &nbsp&nbsp&nbsp&nbsp —  C#:         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" height="18" width="18" />
+      &nbsp&nbsp&nbsp&nbsp —  C#:         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" height="18" width="18" /> <br>
+    }
   </h3>
 
   <h3>
@@ -104,5 +105,5 @@
 ***
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=I%20LOVE%20KITTENS%20&animation=fadeIn&type=waving&color=gradient&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?text=I%20LOVE%20KITTENS%20&theme=tokyonight&animation=fadeIn&type=waving&color=gradient&height=200&section=footer"/>
 </p>

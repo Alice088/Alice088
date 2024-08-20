@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Alice088%20&animation=fadeIn&theme=tokyonight&type=waving&color=gradient&height=200"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Alice088%20&animation=fadeIn&theme=tokyonight&type=venom&color=gradient&height=200"/>
 </p>
 
 <h1 align="center"> General Info </h1>

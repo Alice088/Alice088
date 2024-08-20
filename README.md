@@ -9,7 +9,7 @@
   I'm love programming and kittens.
 </p>
 
-<h2 align="center"> Technologies that i love and i've worked with </h2>
+<h2 align="center"> Technologies i've worked with </h2>
 
 <div>
   <h3>
@@ -48,7 +48,8 @@
   <h3>
     [dependency management] {<br>
       &nbsp&nbsp&nbsp&nbsp —  NPM:      <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/npm_logo-512.png" height="16" width="16" />, <br>
-      &nbsp&nbsp&nbsp&nbsp —  Composer: <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" height="16" width="16" />
+      &nbsp&nbsp&nbsp&nbsp —  Composer: <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" height="16" width="16" /> <br>
+      &nbsp&nbsp&nbsp&nbsp —  NUGET
     <br>};
   </h3>
 
@@ -61,7 +62,9 @@
 
   <h3>
     [ORM] {<br>
-      &nbsp&nbsp&nbsp&nbsp —  PrismaORM: <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" height="16" width="16" />
+      &nbsp&nbsp&nbsp&nbsp —  PrismaORM: <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" height="16" width="16" /> <br>
+      &nbsp&nbsp&nbsp&nbsp —  GORM <br>
+      &nbsp&nbsp&nbsp&nbsp —  Eloquent
     <br>};
   </h3>
 
